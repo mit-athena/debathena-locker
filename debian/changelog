@@ -1,3 +1,9 @@
+debathena-locker (1.4) unstable; urgency=low
+
+  * Depend on lert-compat instead of lert
+
+ -- Victor Vasiliev <vasilvv@mit.edu>  Fri, 14 Mar 2014 21:59:50 -0400
+
 debathena-locker (1.3) unstable; urgency=low
 
   [ Jonathan Reed ]
