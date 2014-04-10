@@ -1,3 +1,10 @@
+debathena-locker (1.5) unstable; urgency=low
+
+  * Don't depend on either lert-compat or lert, since there's no reason to
+    do so (Trac: #1460)
+
+ -- Jonathan Reed <jdreed@mit.edu>  Thu, 10 Apr 2014 13:01:11 -0400
+
 debathena-locker (1.4) unstable; urgency=low
 
   * Depend on lert-compat instead of lert
